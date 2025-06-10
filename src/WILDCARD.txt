@@ -4723,3 +4723,4 @@ www.lazada.*sixcountry
 *.call-control.ie
 *.seamless.com
 *.grubhub.com
+*.trip.biz
