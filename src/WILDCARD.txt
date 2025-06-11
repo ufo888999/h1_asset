@@ -4724,3 +4724,4 @@ www.lazada.*sixcountry
 *.seamless.com
 *.grubhub.com
 *.trip.biz
+*.uisp.com
