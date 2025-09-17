@@ -4912,3 +4912,5 @@ vm-gw-cf.*.aws.indriverapp.com
 was-gw-cf.*.aws.indriverapp.com
 wlr-cf.*.aws.indriverapp.com
 *.eternal.com
+*.travelguard.com
+*.travelguard.zurichna.com
