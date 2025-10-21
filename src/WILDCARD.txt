@@ -5022,3 +5022,9 @@ https://*.rwbaird.com
 *.vueling.com
 *.roke.co.uk
 *.pipopay.com
+*.1integrations.com
+*.x1.co
+*.x1creditcard.com
+*.itau.com.br
+*.itau
+*.userede.com.br
