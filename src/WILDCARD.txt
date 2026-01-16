@@ -5231,3 +5231,4 @@ wd2*.indriverapp.com
 *.fyfeco.com
 *.highland-international.com
 *.www.allegrodevelopment.com
+*.ba.com
