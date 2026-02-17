@@ -17515,3 +17515,7 @@ wallet.web3auth.io
 api-wallet.web3auth.io
 logiq.logitech.io
 wpscan.com
+annoncesuber.fr
+anthealanguages.be
+anthealanguages.com
+anthealanguages.eu
