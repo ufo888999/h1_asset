@@ -17519,3 +17519,5 @@ annoncesuber.fr
 anthealanguages.be
 anthealanguages.com
 anthealanguages.eu
+bose.xx
+support.bose.xx
