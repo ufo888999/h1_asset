@@ -5427,3 +5427,5 @@ static*.twilio.com
 *.digital.canada.ca
 *.saasalerts.com
 *.inky.com
+*.cloveronline.com
+*.avalarabrasil.com.br
