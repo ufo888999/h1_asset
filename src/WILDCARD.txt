@@ -5479,3 +5479,4 @@ static*.twilio.com
 *.henkel-system.com
 *.porchlightgroup.com
 *.superbet.gr
+*.bancoplata.mx
