@@ -18205,3 +18205,7 @@ askpeopleteam.visa.com
 taxact.com
 https://bridge.ripio.com/
 login.remitly.com
+drakesoftware.com
+www.getyourguide.com
+travelers-api.getyourguide.com
+https://optout.life2.corebridgefinancial.com/optout/login.jsp
