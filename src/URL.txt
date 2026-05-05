@@ -18209,3 +18209,4 @@ drakesoftware.com
 www.getyourguide.com
 travelers-api.getyourguide.com
 https://optout.life2.corebridgefinancial.com/optout/login.jsp
+https://collabora.stg.inspectorio.com
