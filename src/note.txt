@@ -868,3 +868,4 @@
 108602	https://hackerone.com/luminor	Luminor	luminor
 440	https://hackerone.com/coinmate	CoinMate.io	coinmate
 108943	https://hackerone.com/taxwell-vdp	Taxwell VDP	taxwell-vdp
+109309	https://hackerone.com/coupang_tw	Coupang Taiwan	coupang_tw
