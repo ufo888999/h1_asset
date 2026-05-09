@@ -18375,3 +18375,4 @@ docs.anthropic.com
 support.anthropic.com
 anthropic.atlassian.com
 tradepmr.com
+mcp.stripe.com
