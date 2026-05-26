@@ -871,3 +871,4 @@
 109309	https://hackerone.com/coupang_tw	Coupang Taiwan	coupang_tw
 70892	https://hackerone.com/anthropic	Anthropic	anthropic
 110831	https://hackerone.com/mcgrawhill	McGraw Hill	mcgrawhill
+108579	https://hackerone.com/cognition	Cognition	cognition
