@@ -5513,3 +5513,4 @@ www.*.gogoair.*.com
 *.novanthealthvirtualprimarycare.org
 *.pennmedicine.connect-visit.com
 *.soundon.global
+*.fallguys.com
