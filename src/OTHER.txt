@@ -1924,3 +1924,4 @@ Hilton Franchised Properties
 Hilton Third Party Applications
 Managed Property Assets
 Figma Weave
+Firefox Homepage Newtab
