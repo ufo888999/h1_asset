@@ -8,3 +8,7 @@ app.varonis.io/login
 *.varonis.io
 http://app.varonis.io/login
 varonis.net
+licensemgmt.varonis.com
+downloads.varonis.com
+my.varonis.com
+support.varonis.com
