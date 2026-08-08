@@ -5538,3 +5538,4 @@ www.*.gogoair.*.com
 *.enlivenhealth.co
 *.kellanova.com
 *.pringles.com
+*.base.app
