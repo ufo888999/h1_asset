@@ -5539,3 +5539,4 @@ www.*.gogoair.*.com
 *.kellanova.com
 *.pringles.com
 *.base.app
+*.henkeldx.com
