@@ -5540,3 +5540,14 @@ www.*.gogoair.*.com
 *.pringles.com
 *.base.app
 *.henkeldx.com
+https://*.motel6.com
+https://*.belvilla.com
+https://*.dancenter.dk
+https://*.g6hospitality.com
+*.checkin.life
+https://*.madecomfy.com.au
+*.aura-mena-uat.alshaya.com
+*.securiti.ai
+*.vedaadvantage.com
+*.vedaadvantage.com.au
+*.vedaadvantage.com.nz
