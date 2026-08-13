@@ -5555,3 +5555,4 @@ https://*.madecomfy.com.au
 *.klarna.net
 *.klarnacdn.net
 *.pricerunner.com
+*.raqnhub.cn
