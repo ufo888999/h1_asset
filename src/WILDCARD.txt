@@ -5557,3 +5557,5 @@ https://*.madecomfy.com.au
 *.pricerunner.com
 *.raqnhub.cn
 *.momoafrica.tech
+*.sawope.com
+*.henkeleconomato.es
