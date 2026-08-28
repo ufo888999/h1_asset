@@ -5560,3 +5560,4 @@ https://*.madecomfy.com.au
 *.sawope.com
 *.henkeleconomato.es
 *.iron.xyz
+*.visamiddleeast.com

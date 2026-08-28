@@ -2,3 +2,4 @@
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
 https://github.com/Hacker0x01/react-datepicker
+https://hackerone.com/mcp
