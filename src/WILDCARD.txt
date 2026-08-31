@@ -5566,3 +5566,5 @@ https://*.madecomfy.com.au
 *.mavenlab.com
 *.moobidesk.com
 *.moobicast.com
+*.globalatlantic.com
+*.gafg.com
