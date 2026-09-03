@@ -19586,3 +19586,5 @@ source.sierrawireless.com
 integrator.getyourguide.com
 integrator-portal-api.getyourguide.com
 app.wirespeed.co
+api.forms-formulaires.alpha.canada.ca
+validate-email.cdssandbox.xyz
