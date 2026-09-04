@@ -9,3 +9,6 @@ Other Amazon Retail Assets (Please only actively test explicitly stated scope)
 www.amazon.in specific areas of note
 https://www.amazonpay.in/*
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
+Vega OS
+Devices
+Services/Mobile/GenAI
