@@ -15,3 +15,4 @@ workflows.semrush.com
 investors.semrush.com
 engage.semrush.com
 *.myinsights.io
+www.semrush.com
