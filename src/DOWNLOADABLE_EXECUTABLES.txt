@@ -294,3 +294,4 @@ UnrealEditorFortnite.exe
 Devin CLI
 basecamp-setup.exe
 grok-build
+Any LoRa Software product
