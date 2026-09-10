@@ -1948,3 +1948,4 @@ Any Semtech Mobile Application
 Box Tools
 Services/Mobile/GenAI
 Globalpayments.com
+Neon-supported extensions
