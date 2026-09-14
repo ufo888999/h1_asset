@@ -5584,3 +5584,4 @@ info*semtech.com
 *.tiqets.com
 *.expedia-aarp.com
 *.super.xyz
+mercadolibreexperience.com.*
