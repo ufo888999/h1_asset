@@ -5585,3 +5585,4 @@ info*semtech.com
 *.expedia-aarp.com
 *.super.xyz
 mercadolibreexperience.com.*
+*.arc.io

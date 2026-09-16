@@ -19607,3 +19607,5 @@ test.revaluemycard.com
 testadmin.revaluemycard.com
 testmobile.revaluemycard.com
 testprovider.revaluemycard.com
+metrocompetitions.com
+your-assigned-subdomain.hosted-by-files.com
