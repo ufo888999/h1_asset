@@ -53,3 +53,4 @@ qm-*.8x8.com
 *.mavenlab.com
 *.moobidesk.com
 *.moobicast.com
+*.rekap.8x8.com
