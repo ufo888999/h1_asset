@@ -5622,3 +5622,4 @@ mercadolibreexperience.com.*
 *.lan-express.cl
 *.cuidomidestino.cl
 *.rekap.8x8.com
+*.phonepe.com
