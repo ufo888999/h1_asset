@@ -5623,3 +5623,4 @@ mercadolibreexperience.com.*
 *.cuidomidestino.cl
 *.rekap.8x8.com
 *.phonepe.com
+https://github.com/strands-agents/*
