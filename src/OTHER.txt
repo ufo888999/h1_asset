@@ -1966,3 +1966,4 @@ Wonder
 Evergreen
 MongoDB Server
 GitHub (FinnairOyj)
+Notion MCP
