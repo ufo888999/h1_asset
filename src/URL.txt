@@ -20261,3 +20261,5 @@ smtp.sendgrid.net
 1console.twilio.com
 1wintoken.com
 1wtoken.com
+https://profile.hackthebox.com
+https://range.hackthebox.ai/
