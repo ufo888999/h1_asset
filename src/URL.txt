@@ -20263,3 +20263,7 @@ smtp.sendgrid.net
 1wtoken.com
 https://profile.hackthebox.com
 https://range.hackthebox.ai/
+mercadolivreexperience.mercadolivre.com.br
+*.modoblack.mercadolivre.com.br
+fullbarhomologa.modoblackfullbar.com.br
+uat.marriott.com
