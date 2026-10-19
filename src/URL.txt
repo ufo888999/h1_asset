@@ -20267,3 +20267,6 @@ mercadolivreexperience.mercadolivre.com.br
 *.modoblack.mercadolivre.com.br
 fullbarhomologa.modoblackfullbar.com.br
 uat.marriott.com
+lovable.net
+cibil.com
+docs.gocardless.com
