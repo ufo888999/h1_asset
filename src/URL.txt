@@ -20270,3 +20270,5 @@ uat.marriott.com
 lovable.net
 cibil.com
 docs.gocardless.com
+people.plata.team
+plata.co
