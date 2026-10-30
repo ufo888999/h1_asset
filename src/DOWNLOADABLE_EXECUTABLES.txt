@@ -297,3 +297,4 @@ grok-build
 Any LoRa Software product
 Dia on Windows
 Dia on MacOS
+WiFiman
